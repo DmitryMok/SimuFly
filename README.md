@@ -27,6 +27,6 @@ block_size = 640
 start_simulation('landscape.jpg', bl_size = block_size, ang = 0, x_coord = x, y_coord = y)
 ```
 # Посмотрите видео
-[![посмотрите видео](https://img.youtube.com/vi/ZCHeAuflB2A/0.jpg)](https://www.youtube.com/watch?v=ZCHeAuflB2A)
+[![посмотрите видео](https://img.youtube.com/vi/ZCHeAuflB2A/0.jpg)](https://youtu.be/ZCHeAuflB2A)
 
 
